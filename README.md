@@ -5,7 +5,7 @@ This project is a mock-up of a user management page for an admin panel, designed
 
 ## Features
 
-- Clean, responsive layout designed to match the organization’s style and branding
+- Clean, responsive layout designed to align with the organization’s style and branding
 
 - Fetches user data dynamically from a public API
 
